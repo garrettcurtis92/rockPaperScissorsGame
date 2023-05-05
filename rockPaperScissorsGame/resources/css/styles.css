@@ -1,0 +1,38 @@
+body {
+	background-color: #888888;
+}
+
+button {
+	text-align: center;
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 5px;
+	background-color: #4caf50;
+	color: white;
+	border: none;
+	box-shadow: 2px 2px #888888;
+	cursor: pointer;
+	box-shadow: inset;
+}
+
+button:hover {
+	text-align: center;
+	background-color: #3e8e41;
+}
+
+/* Styling for result text */
+
+.result {
+	font-size: 2em;
+	font-weight: bold;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.container {
+	display: grid;
+	justify-content: center;
+	height: 100%;
+	background-color: #888888;
+}
